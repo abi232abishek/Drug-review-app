@@ -6,4 +6,6 @@ numpy
 scikit-learn
 lightgbm
 joblib
+scipy
+imbalanced-learn
 
