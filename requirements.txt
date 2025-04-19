@@ -1,7 +1,9 @@
 streamlit
 nltk
+textblob
 pandas
+numpy
 scikit-learn
-joblib
-gdown
 lightgbm
+joblib
+
